@@ -2,10 +2,10 @@
 <head>
     <title>My Website Home Page</title>
 </head>
-<body bgcolor=black>
+<body bgcolor=silver>
   <center>
   <h1>Welcome to my website</h1>
-  <p><font color=red>From GitHub to S3 by EBS</p>
+  <p><font color=black>From GitHub to S3 by EBS</p>
   </center>
 </body>
 </html>
